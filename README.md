@@ -1,9 +1,9 @@
-###README
+##README
 This file is used to describe how run_analysis.R works.
 run_analysis.R can be run as long as the Samsung data is in the working directory
 
-###Script Description
-#Load packages
+##Script Description
+###Load packages
 
 library("dplyr")
 library("reshape2")
